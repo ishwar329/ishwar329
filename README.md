@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Ishwar
 
-🎓 Third Year BSc Computer Science Student
-☁️ Passionate about DevOps and Cloud Computing
-🐧 Working with Linux, Git, Docker and Jenkins
-🚀 Learning Kubernetes, AWS and CI/CD Pipelines
-🔧 Interested in Automation, Infrastructure and Cloud Technologies
+<br>🎓 Third Year BSc Computer Science Student</br>
+<br>☁️ Passionate about DevOps and Cloud Computing</br>
+<br>🐧 Working with Linux, Git, Docker and Jenkins</br>
+<br>🚀 Learning Kubernetes, AWS and CI/CD Pipelines</br>
+<br>🔧 Interested in Automation, Infrastructure and Cloud Technologies</br>
 
 
 ## 🌐 Socials:
