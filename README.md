@@ -1,5 +1,10 @@
-# 💫 About Me:
-i am current pursing bsc computer science thord year<br>
+## 👋 Hi, I'm Ishwar
+
+🎓 Third Year BSc Computer Science Student
+☁️ Passionate about DevOps and Cloud Computing
+🐧 Working with Linux, Git, Docker and Jenkins
+🚀 Learning Kubernetes, AWS and CI/CD Pipelines
+🔧 Interested in Automation, Infrastructure and Cloud Technologies
 
 
 ## 🌐 Socials:
